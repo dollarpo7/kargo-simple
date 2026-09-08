@@ -1,4 +1,4 @@
-#!/bin/bash
+./#!/bin/bash
 
 if [ -z "$1" ]; then
   echo "./personalize.sh <username> [repository_name] [image_name]"
